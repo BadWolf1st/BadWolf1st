@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badwolf1st" alt="badwolf1st" /></a> </p>
 
-- 🔭 I’m currently working on **Game project**
+- 🔭 I’m currently working on **Online voice-video chat**
 
-- 🌱 I’m currently learning **Java Script and React.**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://wolfinfo.ru](https://wolfinfo.ru)
 
-- ❓ Ask me about **C#, Python**
+- ❓ Ask me about **Python**
 
 - 💬 How to reach me **https://t.me/BADWOLF_1st**
 
