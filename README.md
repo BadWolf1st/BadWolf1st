@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://wolfinfo.ru](https://wolfinfo.ru)
-
 - ❓ Ask me about **Python**
 
 - 💬 How to reach me **https://t.me/BADWOLF_1st**
